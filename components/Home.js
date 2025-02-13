@@ -13,6 +13,7 @@ const Home = () => {
 
                 </div>
             </div>
+            
             <div className='md:z-40 absolute lg:bottom-[-220] '>
                 <img className='mt-[-18] ' src="/Img/Slideer.png" alt="" />
             </div>

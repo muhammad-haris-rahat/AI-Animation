@@ -7,7 +7,8 @@ import Features from "@/components/Features";
 import Work from "@/components/Work";
 import Pricing from "@/components/Pricing";
 import Testonomial from "@/components/Testonomial";
-import Get from "@/components/Get";
+import Get from "@/components/Footer";
+import "@fortawesome/fontawesome-svg-core/styles.css"; // import Font Awesome CSS
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
